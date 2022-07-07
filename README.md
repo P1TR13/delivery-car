@@ -10,7 +10,7 @@ This game took 2nd place in game jam called ["Dżemik"](http://dzemik.wi.pb.edu.
 	
 ## Technologies
 Project is created with:
-* Unity 3d
+* Unity 3D
 * C#
 
 ## Setup
